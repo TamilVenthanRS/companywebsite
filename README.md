@@ -215,7 +215,7 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 ![output](./static/img/home.jpg)
-![output](./static/img/product.jpg)
+![output](./static/img/products.jpg)
 ![output](./static/img/people.jpg)
 ![output](./static/img/contactus.jpg)
 
